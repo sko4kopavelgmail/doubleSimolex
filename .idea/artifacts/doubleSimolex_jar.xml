@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="doubleSimolex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/doubleSimolex_jar</output-path>
+    <root id="archive" name="doubleSimolex.jar">
+      <element id="module-output" name="doubleSimolex" />
+    </root>
+  </artifact>
+</component>
